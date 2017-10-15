@@ -52,18 +52,3 @@ fs.readFile('movies.json', 'utf8', function(err, data){
   }
 
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
